@@ -13,6 +13,8 @@ let firstCard, secondCard;
 let tries = 0;
 let achou = 0;
 
+//just a test to the sync
+
 // função para adicionar a classe (flip) a um elemento
 function flipCard() {
     if (lockBoard) return;
